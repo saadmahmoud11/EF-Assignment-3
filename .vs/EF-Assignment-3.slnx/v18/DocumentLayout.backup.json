@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\migrations\\20251122011629_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\migrations\\20251122011629_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\configurations\\employeequalificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\configurations\\employeequalificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\configurations\\routeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\configurations\\routeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\dbcontexts\\airlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\dbcontexts\\airlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\configurations\\crewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\configurations\\crewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\configurations\\employeeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\configurations\\employeeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\configurations\\airlinephoneconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\configurations\\airlinephoneconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\configurations\\aircraftrouteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\configurations\\aircraftrouteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\configurations\\aircraftconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\configurations\\aircraftconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\configurations\\airlineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\configurations\\airlineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\aircraftroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\aircraftroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\employeequalification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\employeequalification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\airlinephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\airlinephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|c:\\users\\el-manfy\\source\\repos\\ef-assignment-3\\ef-assignment-3\\entities\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAF3BB3-2085-4C29-AC99-BF393AA8891E}|EF-Assignment-3\\EF-Assignment-3.csproj|solutionrelative:ef-assignment-3\\entities\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251122011629_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Migrations\\20251122011629_initialCreate.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Migrations\\20251122011629_initialCreate.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Migrations\\20251122011629_initialCreate.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Migrations\\20251122011629_initialCreate.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T01:16:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeQualificationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\EmployeeQualificationConfiguration.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Configurations\\EmployeeQualificationConfiguration.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\EmployeeQualificationConfiguration.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Configurations\\EmployeeQualificationConfiguration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T01:14:49.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\TransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Configurations\\TransactionConfiguration.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\TransactionConfiguration.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Configurations\\TransactionConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T01:08:40.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrewConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\CrewConfiguration.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Configurations\\CrewConfiguration.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\CrewConfiguration.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Configurations\\CrewConfiguration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T01:05:10.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\EmployeeConfiguration .cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Configurations\\EmployeeConfiguration .cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\EmployeeConfiguration .cs",
+              "RelativeToolTip": "EF-Assignment-3\\Configurations\\EmployeeConfiguration .cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:59:19.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AirLinePhoneConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\AirLinePhoneConfiguration.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Configurations\\AirLinePhoneConfiguration.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\AirLinePhoneConfiguration.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Configurations\\AirLinePhoneConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:42:35.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AirCraftRouteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\AirCraftRouteConfiguration.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Configurations\\AirCraftRouteConfiguration.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\AirCraftRouteConfiguration.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Configurations\\AirCraftRouteConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:39:39.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\RouteConfiguration.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Configurations\\RouteConfiguration.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\RouteConfiguration.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Configurations\\RouteConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:37:52.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AirCraftConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\AirCraftConfiguration.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Configurations\\AirCraftConfiguration.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\AirCraftConfiguration.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Configurations\\AirCraftConfiguration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:26:28.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AirLineConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\AirLineConfiguration.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Configurations\\AirLineConfiguration.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Configurations\\AirLineConfiguration.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Configurations\\AirLineConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:21:47.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Gender.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\Gender.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Gender.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T00:12:32.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AirCraftRoute.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\AirCraftRoute.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\AirCraftRoute.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\AirCraftRoute.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\AirCraftRoute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:45:41.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeQualification.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\EmployeeQualification.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\EmployeeQualification.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\EmployeeQualification.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\EmployeeQualification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:37:17.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Transaction.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:33:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\Route.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Route.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\Route.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:32:38.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Employee.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\Employee.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:32:03.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Crew.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Crew.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\Crew.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\Crew.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\Crew.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:31:24.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AirCraft.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\AirCraft.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\AirCraft.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\AirCraft.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\AirCraft.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:30:34.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AirLine.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\AirLine.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\AirLine.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\AirLine.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\AirLine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:28:23.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AirLinePhone.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\AirLinePhone.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Entities\\AirLinePhone.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Entities\\AirLinePhone.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Entities\\AirLinePhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:24:11.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AirLineDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\DbContexts\\AirLineDbContext.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\DbContexts\\AirLineDbContext.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\DbContexts\\AirLineDbContext.cs",
+              "RelativeToolTip": "EF-Assignment-3\\DbContexts\\AirLineDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T22:50:11.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Program.cs",
+              "RelativeDocumentMoniker": "EF-Assignment-3\\Program.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\EF-Assignment-3\\EF-Assignment-3\\Program.cs",
+              "RelativeToolTip": "EF-Assignment-3\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAGgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T22:48:14.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
